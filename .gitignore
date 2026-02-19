@@ -1,0 +1,13 @@
+# Entorno virtual creado con: python -m venv .
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# Cachés de Python / pytest
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# VS Code (opcional, pero típico)
+.vscode/
